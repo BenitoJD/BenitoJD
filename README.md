@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Benito JD</h1>
+<h1 align="center">Hi👋, I'm Benito JD</h1>
 <h3 align="center">I’m in my way to become Engineer who can engineer affordable, efficient and innovative ideas.I’m looking to collaborate with people who understand Profits</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benitojd&label=Profile%20views&color=0e75b6&style=flat" alt="benitojd" /> </p>
