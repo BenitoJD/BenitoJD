@@ -31,14 +31,6 @@ I focus on building practical, scalable solutions that connect business needs wi
 
 ---
 
-## Selected Work
-
-- `AI_Search`: AI-powered search and retrieval toolkit with hybrid search and grounded answers
-- `CodePulse.API` and `ROTA_API`: backend-focused application development in `C#` and `.NET`
-- `Incident-Response-Bot` and monitoring projects: automation and operational tooling for reliability workflows
-
----
-
 ## Achievements
 
 - Hackathon winner with experience building rapid prototypes and solution-driven products under tight timelines
