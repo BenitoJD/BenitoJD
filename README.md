@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Benito JD</h1>
-<h3 align="center">Software Engineer | Cloud, DevOps, Identity, and AI Solutions</h3>
+<h3 align="center">Software Engineer | .NET, Cloud, DevOps, Identity, and AI Solutions</h3>
 
 <p align="center">
-  Software engineer with end-to-end experience building applications, cloud solutions, automation workflows, and AI-powered systems.
+  End-to-end software engineer building enterprise applications, cloud solutions, automation workflows, and AI-powered systems.
 </p>
 
 <p align="center">
@@ -15,9 +15,27 @@
 
 I am a software engineer with experience delivering end-to-end solutions across enterprise application development, cloud platforms, DevOps, identity, and AI-driven systems. I currently work at `TCS`, where I contribute across the software lifecycle, from application development and APIs to cloud deployments, automation, and operational support.
 
-My technical background includes `.NET`, `.NET Core`, `ASP.NET MVC`, `WPF`, `Python`, `FastAPI`, `Node.js`, and `Next.js`, along with hands-on experience in `Azure`, `AWS`, `Azure DevOps`, `GitHub Actions`, `Jenkins`, `Terraform`, `Bicep`, `Ansible`, `Docker`, `Kubernetes`, `PowerShell`, and `Bash`. I have also worked with `IAM`, `OAuth`, `SAML`, and enterprise federation-related systems, as well as AI and search-focused solutions using `Azure AI Search`, `RAG`, `LangChain`, `LangGraph`, prompt engineering, and image-generation workflows. My work also includes observability and monitoring using tools such as `Dynatrace` and `LogicMonitor`.
+My background includes `.NET`, `.NET Core`, `ASP.NET MVC`, `WPF`, `Python`, `FastAPI`, `Node.js`, and `Next.js`, with hands-on experience across `Azure`, `AWS`, `Azure DevOps`, `GitHub Actions`, `Jenkins`, `Terraform`, `Bicep`, `Ansible`, `Docker`, and `Kubernetes`. I have also worked with `IAM`, `OAuth`, `SAML`, enterprise federation systems, `Azure AI Search`, `RAG`, `LangChain`, `LangGraph`, `Dynatrace`, and `LogicMonitor`.
 
 I focus on building practical, scalable solutions that connect business needs with strong engineering execution.
+
+---
+
+## Strengths
+
+- Building enterprise applications and APIs with strong `.NET` foundations
+- Delivering cloud solutions across `Azure` and `AWS`
+- Supporting CI/CD, automation, and infrastructure workflows end to end
+- Working with identity, federation, and secure access patterns
+- Applying AI, search, and automation to real engineering and business problems
+
+---
+
+## Selected Work
+
+- `AI_Search`: AI-powered search and retrieval toolkit with hybrid search and grounded answers
+- `CodePulse.API` and `ROTA_API`: backend-focused application development in `C#` and `.NET`
+- `Incident-Response-Bot` and monitoring projects: automation and operational tooling for reliability workflows
 
 ---
 
