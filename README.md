@@ -26,21 +26,8 @@ I work across the full software lifecycle and enjoy building practical, scalable
 
 ---
 
-## Core Areas
+## Technologies
 
-- End-to-End Software Development
-- Enterprise Application Development with .NET
-- Cloud Solutions on Azure and AWS
-- DevOps, CI/CD, and Infrastructure as Code
-- Identity and Access Management
-- AI Search, RAG, and LLM-powered workflows
-- Monitoring, Observability, and Operations Support
-
----
-
-## Tech Stack
-
-### Cloud and DevOps
 <p>
 <a href="https://azure.microsoft.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/></a>
 <a href="https://aws.amazon.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" height="40"/></a>
@@ -52,7 +39,6 @@ I work across the full software lifecycle and enjoy building practical, scalable
 <a href="https://docs.ansible.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" height="40"/></a>
 </p>
 
-### Development
 <p>
 <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40"/></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" width="40" height="40"/></a>
@@ -62,33 +48,11 @@ I work across the full software lifecycle and enjoy building practical, scalable
 <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="40" height="40"/></a>
 </p>
 
-### AI, Data, and Observability
 <p>
 <a href="https://learn.microsoft.com/azure/search/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/></a>
 <a href="https://www.dynatrace.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/dynatrace.svg" width="40" height="40"/></a>
 <a href="https://www.logicmonitor.com/" target="_blank"><img src="https://images.icon-icons.com/2699/PNG/512/logicmonitor_logo_icon_171846.png" width="40" height="40"/></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>
-</p>
-
----
-
-## Current Focus
-
-- Building end-to-end applications with cloud and AI integration
-- Strengthening backend, automation, and delivery workflows
-- Designing practical solutions across Azure, AWS, and modern web stacks
-- Applying AI to search, productivity, and business workflows
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=benitojd&show_icons=true&theme=tokyonight" alt="benitojd" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benitojd&layout=compact&theme=tokyonight" alt="benitojd" />
 </p>
 
 ---
