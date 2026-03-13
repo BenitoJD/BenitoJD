@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Benito JD</h1>
-<h3 align="center">Platform Engineer | SRE | Cloud, DevOps, and AI Automation</h3>
+<h3 align="center">Software Engineer | Cloud, DevOps, Identity, and AI Solutions</h3>
 
 <p align="center">
-  Engineer focused on building reliable platforms, cloud-native systems, and practical AI-powered tooling.
+  Software engineer with end-to-end experience building applications, cloud solutions, automation workflows, and AI-powered systems.
 </p>
 
 <p align="center">
@@ -13,28 +13,28 @@
 
 ## About Me
 
-I am a software and platform engineer with experience across enterprise application development, cloud infrastructure, developer platforms, identity, and AI-driven solutions.
+I am a software engineer with hands-on experience delivering solutions across the full stack, from application development and APIs to cloud infrastructure, automation, identity, and AI-driven features.
 
 - Building with `.NET`, `.NET Core`, `ASP.NET MVC`, `WPF`, `Python`, `FastAPI`, `Node.js`, and `Next.js`
-- Working across `Azure` and `AWS` with a strong focus on platform engineering, automation, and delivery workflows
+- Working across `Azure` and `AWS` to design, deploy, and support cloud-based applications and services
 - Hands-on with `Azure DevOps`, `GitHub Actions`, `Jenkins`, `Terraform`, `Bicep`, `Ansible`, `Docker`, `Kubernetes`, `PowerShell`, and `Bash`
 - Experienced in `IAM`, `OAuth`, `SAML`, and enterprise federation-related systems
 - Building AI and search-driven solutions with `Azure AI Search`, `RAG`, `LangChain`, `LangGraph`, prompt engineering, and image-generation workflows
 - Supporting reliability and observability with tools such as `Dynatrace` and `LogicMonitor`
 
-I enjoy working across the full lifecycle: application development, cloud architecture, automation, observability, and AI integration.
+I work across the full software lifecycle and enjoy building practical, scalable solutions that connect product needs with strong engineering execution.
 
 ---
 
 ## Core Areas
 
-- Platform Engineering and SRE
-- Cloud Infrastructure on Azure and AWS
+- End-to-End Software Development
+- Enterprise Application Development with .NET
+- Cloud Solutions on Azure and AWS
 - DevOps, CI/CD, and Infrastructure as Code
-- Enterprise .NET Application Development
 - Identity and Access Management
 - AI Search, RAG, and LLM-powered workflows
-- Monitoring, Observability, and Incident Automation
+- Monitoring, Observability, and Operations Support
 
 ---
 
@@ -74,10 +74,10 @@ I enjoy working across the full lifecycle: application development, cloud archit
 
 ## Current Focus
 
-- AI-powered search and retrieval workflows
-- Developer platform automation and CI/CD improvement
-- Cloud infrastructure design across Azure and AWS
-- Observability, reliability engineering, and incident tooling
+- Building end-to-end applications with cloud and AI integration
+- Strengthening backend, automation, and delivery workflows
+- Designing practical solutions across Azure, AWS, and modern web stacks
+- Applying AI to search, productivity, and business workflows
 
 ---
 
