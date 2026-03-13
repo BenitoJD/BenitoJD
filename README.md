@@ -13,7 +13,7 @@
 
 ## About Me
 
-I am a software engineer with experience delivering end-to-end solutions across enterprise application development, cloud platforms, DevOps, identity, and AI-driven systems. I currently work at `TCS`, where I contribute across the software lifecycle, from application development and APIs to cloud deployments, automation, and operational support.
+I am a software engineer with experience delivering end-to-end solutions across enterprise application development, cloud platforms, DevOps, identity, and AI-driven systems. I contribute across the software lifecycle, from application development and APIs to cloud deployments, automation, and operational support.
 
 My background includes `.NET`, `.NET Core`, `ASP.NET MVC`, `WPF`, `Python`, `FastAPI`, `Node.js`, and `Next.js`, with hands-on experience across `Azure`, `AWS`, `Azure DevOps`, `GitHub Actions`, `Jenkins`, `Terraform`, `Bicep`, `Ansible`, `Docker`, and `Kubernetes`. I have also worked with `IAM`, `OAuth`, `SAML`, enterprise federation systems, `Azure AI Search`, `RAG`, `LangChain`, `LangGraph`, `Claude Code`, `Codex`, `Dynatrace`, and `LogicMonitor`.
 
