@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Benito JD</h1>
-<h3 align="center">Software Engineer | .NET, Cloud, DevOps, Identity, and AI Solutions</h3>
+<h3 align="center">Software Engineer | Application Development, Cloud, DevOps, Identity, and AI Solutions</h3>
 
 <p align="center">
   End-to-end software engineer building enterprise applications, cloud solutions, automation workflows, and AI-powered systems.
@@ -23,7 +23,7 @@ I focus on building practical, scalable solutions that connect business needs wi
 
 ## Strengths
 
-- Building enterprise applications and APIs with strong `.NET` foundations
+- Building end-to-end applications, APIs, and automation workflows
 - Delivering cloud solutions across `Azure` and `AWS`
 - Supporting CI/CD, automation, and infrastructure workflows end to end
 - Working with identity, federation, and secure access patterns
