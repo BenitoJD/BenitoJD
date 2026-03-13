@@ -26,6 +26,13 @@ I work across the full software lifecycle and enjoy building practical, scalable
 
 ---
 
+## Achievements
+
+- Hackathon winner with experience building rapid prototypes and solution-driven products under tight timelines
+- Recognized through multiple awards for technical contribution, problem solving, and engineering impact
+
+---
+
 ## Connect
 
 - LinkedIn: [linkedin.com/in/benito-jd](https://www.linkedin.com/in/benito-jd)
