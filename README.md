@@ -1,40 +1,32 @@
 <h1 align="center">Hi, I'm Benito JD</h1>
-<h3 align="center">Software Engineer | Application Development, Cloud, DevOps, Identity, and AI Solutions</h3>
+<h3 align="center">Software Engineer building end-to-end applications across cloud, DevOps, identity, and AI.</h3>
 
 <p align="center">
-  End-to-end software engineer building enterprise applications, cloud solutions, automation workflows, and AI-powered systems.
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=benitojd&label=Profile%20views&color=0e75b6&style=flat" alt="benitojd" />
+  Backend, cloud, automation, and AI-focused engineer with experience turning ideas into production-ready systems.
 </p>
 
 ---
 
 ## About Me
 
-I am a software engineer with experience delivering end-to-end solutions across enterprise application development, cloud platforms, DevOps, identity, and AI-driven systems. I contribute across the software lifecycle, from application development and APIs to cloud deployments, automation, and operational support.
-
-My background includes `.NET`, `.NET Core`, `ASP.NET MVC`, `WPF`, `Python`, `FastAPI`, `Node.js`, and `Next.js`, with hands-on experience across `Azure`, `AWS`, `Azure DevOps`, `GitHub Actions`, `Jenkins`, `Terraform`, `Bicep`, `Ansible`, `Docker`, and `Kubernetes`. I have also worked with `IAM`, `OAuth`, `SAML`, enterprise federation systems, `Azure AI Search`, `RAG`, `LangChain`, `LangGraph`, `Claude Code`, `Codex`, `Dynatrace`, and `LogicMonitor`.
-
-I focus on building practical, scalable solutions that connect business needs with strong engineering execution.
+I build practical software systems across application development, APIs, cloud infrastructure, automation, secure access, and AI-enabled workflows. My experience spans `.NET`, `Python`, `FastAPI`, `Node.js`, `Next.js`, `Azure`, `AWS`, `Azure DevOps`, `GitHub Actions`, `Docker`, `Kubernetes`, `Terraform`, `IAM`, `OAuth`, `SAML`, `Azure AI Search`, `LangChain`, `LangGraph`, `Codex`, `Claude Code`, `Dynatrace`, and `LogicMonitor`.
 
 ---
 
 ## Strengths
 
-- Building end-to-end applications, APIs, and automation workflows
-- Delivering cloud solutions across `Azure` and `AWS`
-- Supporting CI/CD, automation, and infrastructure workflows end to end
-- Working with identity, federation, and secure access patterns
-- Applying AI, search, and automation to real engineering and business problems
+- End-to-end software development across backend, frontend, APIs, and cloud services
+- Cloud and DevOps delivery using `Azure`, `AWS`, CI/CD, containers, and infrastructure as code
+- Identity and access work covering `IAM`, `OAuth`, `SAML`, and federation-related systems
+- AI and search workflows using RAG patterns, prompt engineering, and LLM tooling
+- Observability and operations support using `Dynatrace`, `LogicMonitor`, and automation workflows
 
 ---
 
 ## Achievements
 
-- Hackathon winner with experience building rapid prototypes and solution-driven products under tight timelines
-- Recognized through multiple awards for technical contribution, problem solving, and engineering impact
+- Hackathon winner with experience building high-impact prototypes under tight timelines
+- Recognized through multiple awards for technical contribution, problem solving, and engineering execution
 
 ---
 
