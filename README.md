@@ -13,16 +13,11 @@
 
 ## About Me
 
-I am a software engineer with hands-on experience delivering solutions across the full stack, from application development and APIs to cloud infrastructure, automation, identity, and AI-driven features.
+I am a software engineer with experience delivering end-to-end solutions across enterprise application development, cloud platforms, DevOps, identity, and AI-driven systems. I currently work at `TCS`, where I contribute across the software lifecycle, from application development and APIs to cloud deployments, automation, and operational support.
 
-- Building with `.NET`, `.NET Core`, `ASP.NET MVC`, `WPF`, `Python`, `FastAPI`, `Node.js`, and `Next.js`
-- Working across `Azure` and `AWS` to design, deploy, and support cloud-based applications and services
-- Hands-on with `Azure DevOps`, `GitHub Actions`, `Jenkins`, `Terraform`, `Bicep`, `Ansible`, `Docker`, `Kubernetes`, `PowerShell`, and `Bash`
-- Experienced in `IAM`, `OAuth`, `SAML`, and enterprise federation-related systems
-- Building AI and search-driven solutions with `Azure AI Search`, `RAG`, `LangChain`, `LangGraph`, prompt engineering, and image-generation workflows
-- Supporting reliability and observability with tools such as `Dynatrace` and `LogicMonitor`
+My technical background includes `.NET`, `.NET Core`, `ASP.NET MVC`, `WPF`, `Python`, `FastAPI`, `Node.js`, and `Next.js`, along with hands-on experience in `Azure`, `AWS`, `Azure DevOps`, `GitHub Actions`, `Jenkins`, `Terraform`, `Bicep`, `Ansible`, `Docker`, `Kubernetes`, `PowerShell`, and `Bash`. I have also worked with `IAM`, `OAuth`, `SAML`, and enterprise federation-related systems, as well as AI and search-focused solutions using `Azure AI Search`, `RAG`, `LangChain`, `LangGraph`, prompt engineering, and image-generation workflows. My work also includes observability and monitoring using tools such as `Dynatrace` and `LogicMonitor`.
 
-I work across the full software lifecycle and enjoy building practical, scalable solutions that connect product needs with strong engineering execution.
+I focus on building practical, scalable solutions that connect business needs with strong engineering execution.
 
 ---
 
@@ -35,5 +30,5 @@ I work across the full software lifecycle and enjoy building practical, scalable
 
 ## Connect
 
-- LinkedIn: [linkedin.com/in/benito-jd](https://www.linkedin.com/in/benito-jd)
+- LinkedIn: [linkedin.com/in/benito-j-d-095a63294](https://www.linkedin.com/in/benito-j-d-095a63294/)
 - Phone: `+91 8870764795`
