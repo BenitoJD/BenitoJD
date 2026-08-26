@@ -1,51 +1,68 @@
 <h1 align="center">Benito JD</h1>
-<h3 align="center">Site Reliability Engineer</h3>
+<h3 align="center">Site Reliability Engineer · Operations as a software problem</h3>
 
 <p align="center">
-  I keep systems observable, resilient, and boring.<br/>
-  Dashboards over guesswork · Automate the toil · Ship fast without waking everyone up.
+  Hope is not a strategy — instrumentation is.<br/>
+  Uptime is a feature. Boring is the goal. Everything breaks eventually; the system decides how loudly.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/benito-j-d-095a63294/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/Benito-JD/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <a href="https://codeforces.com/profile/Benito_JD"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
 </p>
 
 ---
 
 ## 👤 About Me
 
-I'm an engineer whose center of gravity is **reliability** — making sure services are observable before they break, deploys are routine instead of events, and incidents end with answers rather than blame.
+Site Reliability Engineer. I sit exactly where software engineering meets operations, because modern reliability isn't achieved by heroic humans staring at dashboards — it's designed into the system: SLOs that carry real consequences, alerting that respects human sleep, deploys so routine nobody books a meeting for them, and postmortems that fix systems rather than assign feelings.
 
-My day-to-day sits at the intersection of cloud infrastructure, monitoring, delivery pipelines, and automation. Most of my serious engineering work lives in **private repositories**, so this profile is less a portfolio and more a map of what I work on and how I think about reliability.
-
----
-
-## 🧭 What I Work On
-
-- 🔭 **Observability** — metrics, logs, and traces that make systems explain themselves: `Dynatrace`, `LogicMonitor`, `Prometheus`, `Grafana`
-- 🚨 **Incident Response** — severity workflows, escalation paths, live-incident communications, postmortems that actually change behavior
-- ⚙️ **Release Engineering** — CI/CD on `Azure DevOps` and `GitHub Actions` where deploys are boring by design
-- 🏗️ **Infrastructure as Code** — `Terraform`, `Bicep`, `Ansible`, Kubernetes manifests and Helm charts
-- ☁️ **Cloud Operations** — running workloads on `Azure` and `AWS` with sane defaults, real monitoring, and cost awareness
-- 🤖 **Automation & AI-assisted Ops** — building reliability tooling with an AI assistant layer so humans only see alerts that matter
+My daily work spans cloud infrastructure, monitoring platforms, delivery pipelines, and reliability tooling. Most of my serious production work lives in private repositories — this profile documents how I think, what I optimize for, and where I'm going.
 
 ---
 
-## 🧰 Toolbox
+## 📐 Operating Principles
 
-| Domain | Tools I work with |
+1. **Define SLIs before arguing about uptime** — if we can't measure it, we shouldn't promise it
+2. **Error budgets are contracts** — when the budget burns, feature velocity yields; reliability debt compounds faster than tech debt
+3. **Automate the toil** — every hour spent repeating manual work is an hour stolen from engineering; cap operational overhead, spend the rest building
+4. **Roll out gradually** — flags, canaries, staged deployments; blast radius is a design decision
+5. **Blameless postmortems** — incidents are system failures wearing human faces; fix the path that allowed the mistake, not the person who tripped it
+6. **If I do it twice by hand, the third time is a pipeline** — scripts become jobs, jobs become runbooks-as-code, runbooks-as-code become one-click remediation
+
+---
+
+## 🧰 Toolkit
+
+| Domain | Tools |
 |---|---|
-| Observability | Dynatrace · LogicMonitor · Prometheus · Grafana · Azure Monitor |
-| Cloud | Azure · AWS |
+| Languages & Scripting | Go · Python · Bash · TypeScript · C# |
+| Systems | Linux internals · Networking fundamentals · Distributed-systems patterns |
+| Observability | Prometheus · Grafana · Dynatrace · LogicMonitor · Azure Monitor · OpenTelemetry |
 | Containers & Orchestration | Docker · Kubernetes · Helm |
 | Infrastructure as Code | Terraform · Bicep · Ansible |
 | CI/CD | Azure DevOps · GitHub Actions |
-| Languages | Python · Go · C# · TypeScript · Bash |
-| Reliability Practice | SLOs & error budgets · incident command · runbooks · OpenTelemetry |
+| Cloud | Azure · AWS |
 
 ---
 
-## 🌱 Currently
+## 🔬 Deliberate Practice
 
-- 📈 Going deeper on **OpenTelemetry**, distributed tracing, and error-budget-driven decisions
-- 🤖 Exploring how LLM assistants can genuinely reduce alert fatigue and speed up incident triage
-- 💬 Ask me about observability, incident workflows, or pipeline design
+> Reliability engineering at scale is earned in small loops, repeated relentlessly.
+
+- 🧪 Running **[OpenTelemetry's Astronomy Shop](https://github.com/BenitoJD/ultimate-devops-project-demo)** microservices locally — injecting faults, tracing failures end-to-end, and learning what good instrumentation feels like before promising it
+- 📖 Working through Google's **SRE Book** and **SRE Workbook** — converting chapters into personal checklists: SLO trees, burn-rate alerting, capacity planning
+- ⚔️ Keeping the algorithmic edge sharp on **Codeforces** and **LeetCode** — SREs are software engineers first; debugging distributed systems still reduces to reasoning about code under constraints
+- 🎯 On the roadmap: **CKA**, then deeper chaos-engineering practice against my own Kubernetes clusters
+
+---
+
+## 🌱 Now
+
+- Building reliability tooling that pairs monitoring data with AI assistance — fewer, better alerts; faster triage
+- Going deep on OpenTelemetry and distributed tracing
+- 💬 Happy to talk observability, incident response, SLO design, or why your deploy pipeline deserves more fear than your database schema
 
 ---
 
