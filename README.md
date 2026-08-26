@@ -10,6 +10,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/benito-j-d-095a63294/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.benify.in"><img src="https://img.shields.io/badge/Portfolio-benify.in-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://leetcode.com/u/Benito-JD/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
   <a href="https://codeforces.com/profile/Benito_JD"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
 </p>
@@ -84,5 +85,7 @@
 The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/benito-j-d-095a63294/).
 
 - LinkedIn: [linkedin.com/in/benito-j-d-095a63294](https://www.linkedin.com/in/benito-j-d-095a63294/)
+- Phone: [+91 8870764795](tel:+918870764795)
+- Portfolio: [benify.in](https://www.benify.in)
 - LeetCode: [leetcode.com/u/Benito-JD](https://leetcode.com/u/Benito-JD/)
 - Codeforces: [codeforces.com/profile/Benito_JD](https://codeforces.com/profile/Benito_JD)
