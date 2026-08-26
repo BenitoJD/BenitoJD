@@ -26,12 +26,10 @@
 
 ## In one minute
 
-| | |
-|---|---|
-| **What I do** | Reliability engineering for cloud systems: monitoring that explains failures, pipelines that ship safely, automation that removes human error from operations |
-| **Where I'm strong** | Observability (Dynatrace, Prometheus, Grafana), CI/CD (Azure DevOps, GitHub Actions), infrastructure as code (Terraform, Ansible) on Azure and AWS |
-| **What I'm building next** | Kubernetes depth, Go services, OpenTelemetry instrumentation, SLO and error-budget practice |
-| **What I want next** | Site Reliability or Platform Engineering role on a product team where reliability is measured, not promised |
+- **What I do:** Reliability engineering for cloud systems. Monitoring that explains failures, pipelines that ship safely, automation that removes human error from operations.
+- **Where I'm strong:** Observability (Dynatrace, Prometheus, Grafana), CI/CD (Azure DevOps, GitHub Actions), infrastructure as code (Terraform, Ansible) on Azure and AWS.
+- **What I'm building next:** Kubernetes depth, Go services, OpenTelemetry instrumentation, SLO and error-budget practice.
+- **What I want next:** A Site Reliability or Platform Engineering role on a product team where reliability is measured, not promised.
 
 ---
 
