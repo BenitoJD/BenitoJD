@@ -2,7 +2,10 @@
 <h3 align="center">Site Reliability Engineer</h3>
 
 <p align="center">
-  I build and operate reliable cloud systems: the observability that explains them, the pipelines that ship them, and the automation that keeps humans out of the retry loop.
+  I keep cloud systems observable, resilient, and dependable at 3 a.m.
+  Strong today in observability, CI/CD, and Azure/AWS infrastructure.
+  Building depth in Kubernetes, Go, and OpenTelemetry.
+  Looking for an SRE seat on a product team.
 </p>
 
 <p align="center">
@@ -11,19 +14,38 @@
   <a href="https://codeforces.com/profile/Benito_JD"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
 </p>
 
+<p align="center">
+  <a href="#in-one-minute">In one minute</a> |
+  <a href="#skills-and-tools">Skills</a> |
+  <a href="#how-i-work">How I work</a> |
+  <a href="#deliberate-practice">Practice</a> |
+  <a href="#contact">Contact</a>
+</p>
+
 ---
 
-## About
+## In one minute
 
-I work at the meeting point of software engineering and operations. Production systems fail in ways nobody can fully predict, so reliability has to be engineered in: service levels we actually measure, alerting that respects people's time, deployments that don't need supervision, and postmortems that fix processes instead of blaming people.
-
-My day job spans cloud infrastructure, monitoring platforms, delivery pipelines, and reliability tooling on Azure and AWS. Most of my serious production engineering lives in private repositories, so read this profile as a description of how I work and where I'm headed, not a folder of demos.
-
-**Open to Site Reliability and Platform Engineering roles.**
+| | |
+|---|---|
+| **What I do** | Reliability engineering for cloud systems: monitoring that explains failures, pipelines that ship safely, automation that removes human error from operations |
+| **Where I'm strong** | Observability (Dynatrace, Prometheus, Grafana), CI/CD (Azure DevOps, GitHub Actions), infrastructure as code (Terraform, Ansible) on Azure and AWS |
+| **What I'm building next** | Kubernetes depth, Go services, OpenTelemetry instrumentation, SLO and error-budget practice |
+| **What I want next** | Site Reliability or Platform Engineering role on a product team where reliability is measured, not promised |
 
 ---
 
 ## Skills and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,terraform,ansible" alt="Cloud and infrastructure tools"/>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana,githubactions,go,python,typescript" alt="Observability and coding tools"/>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bash,linux,git,github&perline=8" alt="Systems and workflow tools"/>
+</p>
 
 | Domain | Tools |
 |---|---|
@@ -37,10 +59,10 @@ My day job spans cloud infrastructure, monitoring platforms, delivery pipelines,
 
 ---
 
-## How I Think
+## How I Work
 
 1. **Define SLIs first, promise uptime later.** If we can't measure it, we have no business promising it.
-2. **Error budgets are agreements.** When the budget burns down, features wait and reliability wins.
+2. **Treat error budgets as agreements.** When the budget burns down, features wait and reliability wins.
 3. **Automate repeated work.** Doing a task twice by hand is fine. The third time it becomes a pipeline.
 4. **Roll out gradually.** Flags, canaries, staged rollouts. Blast radius is chosen in advance, not discovered during an incident.
 5. **Write blameless postmortems.** Incidents come from system gaps, not bad people. Fix the gap.
@@ -51,7 +73,7 @@ My day job spans cloud infrastructure, monitoring platforms, delivery pipelines,
 ## Deliberate Practice
 
 - Running OpenTelemetry's Astronomy Shop microservices locally, injecting faults and tracing failures end to end so good instrumentation becomes routine
-- Working through Google's SRE Book and SRE Workbook and turning each chapter into checklists I can apply on real systems
+- Working through Google's SRE Book and SRE Workbook, turning each chapter into checklists I can apply on real systems
 - Keeping the algorithmic edge sharp on Codeforces and LeetCode, since debugging distributed systems still comes back to reasoning about code
 - CKA certification and hands-on chaos engineering are next in line
 
@@ -59,7 +81,9 @@ My day job spans cloud infrastructure, monitoring platforms, delivery pipelines,
 
 ---
 
-## Connect
+## Contact
+
+The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/benito-j-d-095a63294/).
 
 - LinkedIn: [linkedin.com/in/benito-j-d-095a63294](https://www.linkedin.com/in/benito-j-d-095a63294/)
 - LeetCode: [leetcode.com/u/Benito-JD](https://leetcode.com/u/Benito-JD/)
